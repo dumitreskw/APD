@@ -1,0 +1,25 @@
+Logs:
+Order: Ascending | Data Set: 1000 numbers | Duration: 0ms
+Order: Descending | Data Set: 1000 numbers | Duration: 0ms
+Order: Random | Data Set: 1000 numbers | Duration: 0ms
+Order: Ascending | Data Set: 5000 numbers | Duration: 1ms
+Order: Descending | Data Set: 5000 numbers | Duration: 1ms
+Order: Random | Data Set: 5000 numbers | Duration: 2ms
+Order: Ascending | Data Set: 10000 numbers | Duration: 3ms
+Order: Descending | Data Set: 10000 numbers | Duration: 5ms
+Order: Random | Data Set: 10000 numbers | Duration: 7ms
+Order: Ascending | Data Set: 50000 numbers | Duration: 14ms
+Order: Descending | Data Set: 50000 numbers | Duration: 22ms
+Order: Random | Data Set: 50000 numbers | Duration: 33ms
+Order: Ascending | Data Set: 100000 numbers | Duration: 51ms
+Order: Descending | Data Set: 100000 numbers | Duration: 68ms
+Order: Random | Data Set: 100000 numbers | Duration: 90ms
+
+
+Comparison Table:
+DataSet	Ascending (ms)	Descending (ms)	Random (ms)
+1000	0	0	0
+5000	1	1	2
+10000	3	5	7
+50000	14	22	33
+100000	51	68	90
